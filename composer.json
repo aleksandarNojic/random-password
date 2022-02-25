@@ -2,7 +2,7 @@
     "name": "nojic/random-password",
     "description": "Generates random password by choosen strength and length",
     "type": "library",
-    "license": "AN",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Nojic\\RandomPassword\\": "src/"
