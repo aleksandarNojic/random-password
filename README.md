@@ -1,2 +1,2 @@
 # random-password
-Creating random password by chosen strength and length
+Generate random password of a given length and strength
